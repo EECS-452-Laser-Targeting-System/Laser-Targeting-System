@@ -7,6 +7,7 @@ Public repository of our final iteration
 ## For EECS 452 Use
 
 ### Installing/Downloading library
+[Dynamixel offical Arduino library](https://github.com/ROBOTIS-GIT/DynamixelShield/tree/master)
 
 Go to the Aruino -> libraries. The Arduino folder is by default in documents folder for Windows.
 
